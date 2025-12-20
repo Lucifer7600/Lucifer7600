@@ -1,7 +1,7 @@
 <!-- =====================================================
      GitHub Profile README
-     Name: Abhishek Lunagariya
-     Theme: Dark Professional • Recruiter-Safe • High Impact
+     Abhishek Lunagariya
+     Theme: Elegant • Recruiter-Safe • ATS-Aligned
 ===================================================== -->
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2400&pause=700&center=true&vCenter=true&width=950&lines=Programmer+Analyst+%7C+Software+Developer;Java+%26+JavaScript+Focused+Engineer;C%23+%7C+.NET+%7C+SQL+Server+%7C+System+Analysis;Building+Reliable%2C+Maintainable+Applications;Montreal%2C+Canada+%7C+Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2400&pause=700&center=true&vCenter=true&width=950&lines=Programmer+Analyst+%7C+Software+Developer;Java+%26+JavaScript+Focused+Engineer;C%23+%7C+.NET+%7C+SQL+Server+%7C+System+Analysis;Production-Ready%2C+Maintainable+Software;Montreal%2C+Canada+%7C+Open+to+Opportunities" />
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@
 ---
 
 ## 👋 About Me
-I’m a **Programmer Analyst / Software Developer** based in **Montreal, Canada** with strong hands-on experience in **Java**, **JavaScript**, **C#**, **.NET**, and **SQL Server**.
+I’m a **Programmer Analyst / Software Developer** based in **Montreal, Canada**, with professional experience across **Java**, **JavaScript**, **C#**, **.NET**, and **SQL Server**.
 
-I work close to real systems — analyzing requirements, fixing bugs, improving performance, and writing clean, maintainable code. I’m comfortable in **ticket-based environments**, collaborative teams, and production-focused development.
+I specialize in **maintaining and enhancing existing systems**, fixing bugs, improving performance, analyzing data flows, and delivering clean, production-ready solutions. I work comfortably in **ticket-based environments**, Agile teams, and real-world business systems.
 
 ---
 
@@ -43,105 +43,99 @@ I work close to real systems — analyzing requirements, fixing bugs, improving 
 ---
 
 ## 🧠 How I Think as a Developer
-When working on a feature or issue, I focus on:
-1. Understanding the real business or user problem  
-2. Mapping data flow and dependencies  
-3. Identifying failure points and edge cases  
-4. Writing clean, maintainable solutions for long-term use  
+When I work on a feature or resolve an issue, I follow a structured approach:
+1. Understand the business or user problem  
+2. Analyze system flow and data dependencies  
+3. Identify failure points and performance risks  
+4. Implement maintainable, scalable solutions  
 
-This approach helps me deliver **stable and scalable systems**, not just working code.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,cs,py,cpp,html,css,php&perline=8" />
-</p>
-
-**Frameworks & Tools**  
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github&perline=8" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-</p>
-
-**Databases & Analytics**  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&perline=8" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=111" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-</p>
+This mindset helps me deliver **stable systems**, not just working code.
 
 ---
 
-## 🚀 Featured Projects (Visual Cards)
+## 🛠️ Tech Stack (ATS-Aligned)
+
+**Languages:** Java, JavaScript, C#, Python, C++, HTML, CSS, PHP  
+**Frameworks:** .NET, ASP.NET, REST APIs  
+**Databases:** SQL Server, MySQL, Oracle  
+**Tools:** Visual Studio, VS Code, Git, GitHub, Jira  
+**Concepts:** OOP, MVC, CRUD, System Analysis, Debugging, Performance Optimization
+
+---
+
+## 🚀 Featured Projects (Elegant Cards)
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧩 Multi-Tier Web Application  
 **Tech:** Java, MySQL, REST  
 
-✔ 3-Layer architecture (Controller / Service / DAO)  
-✔ Optimized SQL queries  
-✔ Clean separation of concerns  
+• 3-layer architecture (Controller / Service / DAO)  
+• Optimized SQL queries  
+• Clean separation of concerns  
 
-**Metrics**
-- Reduced query latency by ~30%  
-- Scalable backend structure  
-- REST-based communication  
+**Impact**
+- ~30% faster query response  
+- Scalable backend architecture  
+
+🔗 **Repo:**  
+https://github.com/Lucifer7600/Hi-Tech-Inc
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 Online Crime Management System  
 **Tech:** HTML, CSS, PHP, MySQL  
 
-✔ Digital police complaint registration  
-✔ Secure data validation  
-✔ Workflow-driven design  
+• Digital police complaint registration system  
+• Secure form validation  
+• Workflow-based system design  
 
-**Metrics**
-- 100% digital submission flow  
-- Clear DFD & system diagrams  
-- Improved data traceability  
+**Impact**
+- Fully digital complaint lifecycle  
+- Clear DFD and system diagrams  
+
+🔗 **Repo:**  
+https://github.com/Lucifer7600
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📱 Habit Tracker Mobile App  
 **Tech:** Android, Firebase  
 
-✔ User authentication  
-✔ CRUD for habits  
-✔ Real-time updates  
+• User authentication  
+• CRUD operations  
+• Real-time database sync  
 
-**Metrics**
-- Real-time sync with Firebase  
-- Clean UI with backend reliability  
-- Modular feature design  
+**Impact**
+- Reliable real-time updates  
+- Modular and maintainable code  
+
+🔗 **Repo:**  
+https://github.com/Lucifer7600
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛠 System Support & Enhancements  
 **Tech:** C#, .NET, SQL Server  
 
-✔ Bug fixes & enhancements  
-✔ Ticket-based resolution  
-✔ SQL optimization  
+• Bug fixes and feature enhancements  
+• Ticket-based issue resolution  
+• SQL query optimization  
 
-**Metrics**
-- Faster report queries  
+**Impact**
 - Improved system stability  
-- Reduced recurring issues  
+- Reduced recurring production issues  
+
+🔗 **Repo:**  
+https://github.com/Lucifer7600/ATM-C-
 
 </td>
 </tr>
@@ -149,12 +143,28 @@ This approach helps me deliver **stable and scalable systems**, not just working
 
 ---
 
+## 🎯 Role Focus
+
+### 🔹 Java / JavaScript Developer
+- Backend development using **Java**
+- Frontend & logic using **JavaScript**
+- REST APIs, database integration, MVC
+- Strong focus on maintainability and performance
+
+### 🔹 C# / .NET Developer
+- Application development and enhancements in **.NET**
+- SQL Server queries and reporting
+- Debugging, refactoring, and system support
+- Production-focused development mindset
+
+---
+
 ## 💼 Experience Highlights
 
 ### Intern Web Developer — Cyber Hygienique (Montreal)
-- Migrated WordPress content into **dynamic, database-driven features**
+- Converted WordPress content into **dynamic, database-driven features**
 - Assisted backend logic using **C# / .NET + SQL Server**
-- Built system documentation and data-flow analysis
+- Created system documentation and data-flow analysis
 - Debugging, QA testing, and performance improvements
 
 ### Trainee Web Developer — Techaronic IT Solutions
@@ -171,7 +181,7 @@ This approach helps me deliver **stable and scalable systems**, not just working
 
 ## 🎓 Education
 - **AEC – IT Programmer Analyst**, LaSalle College, Montreal  
-- **Bachelor of Computer Engineering**, GTU, India (CGPA: 8.5)
+- **Bachelor of Computer Engineering**, Gujarat Technological University (CGPA: 8.5)
 
 ---
 
@@ -195,11 +205,11 @@ This approach helps me deliver **stable and scalable systems**, not just working
 
 ---
 
-## 🎯 Open to Conversations
-If you’re looking for someone who:
-- Is strong in **Java**, **JavaScript**, and **.NET**
-- Understands systems, data flow, and maintainability
-- Can improve existing code instead of rewriting blindly
+## 🤝 Open to Opportunities
+If you’re looking for a **Java**, **JavaScript**, or **.NET** developer who:
+- Understands real systems
+- Improves existing codebases
+- Writes maintainable, production-ready solutions  
 
 I’m always open to meaningful technical conversations.
 
