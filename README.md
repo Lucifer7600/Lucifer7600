@@ -37,6 +37,11 @@
   <a href="https://github.com/Lucifer7600/Hi-Tech-Inc"><img src="https://img.shields.io/badge/Repo-Hi--Tech--Inc-black?style=for-the-badge"></a>
   <a href="https://github.com/Lucifer7600/ATM-C-"><img src="https://img.shields.io/badge/Repo-ATM--C--black?style=for-the-badge"></a>
 </p>
+
+<p align="center">
+  <img src="./assets/ai-resume-lens.svg" alt="AI Resume Lens" />
+</p>
+
 ---
 
 ## 👋 About Me
