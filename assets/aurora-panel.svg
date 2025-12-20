@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05060a"/>
+      <stop offset="100%" stop-color="#0b0f1a"/>
+    </linearGradient>
+
+    <!-- Aurora ribbons -->
+    <linearGradient id="aur1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="rgba(26,92,255,0)"/>
+      <stop offset="50%" stop-color="rgba(26,92,255,0.35)"/>
+      <stop offset="100%" stop-color="rgba(26,92,255,0)"/>
+    </linearGradient>
+
+    <linearGradient id="aur2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="rgba(139,92,246,0)"/>
+      <stop offset="50%" stop-color="rgba(139,92,246,0.30)"/>
+      <stop offset="100%" stop-color="rgba(139,92,246,0)"/>
+    </linearGradient>
+
+    <linearGradient id="aur3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="rgba(34,197,94,0)"/>
+      <stop offset="50%" stop-color="rgba(34,197,94,0.25)"/>
+      <stop offset="100%" stop-color="rgba(34,197,94,0)"/>
+    </linearGradient>
+
+    <!-- Soft blur -->
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+
+    <!-- Grain -->
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix"
+        values="0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0.10 0"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="26" filter="url(#grain)" opacity="0.55"/>
+
+  <!-- Animated aurora ribbons -->
+  <g filter="url(#blur)">
+    <path d="M-200,95 C80,40 260,170 520,105 C780,40 980,170 1400,95"
+          fill="none" stroke="url(#aur1)" stroke-width="60" opacity="0.9">
+      <animate attributeName="d" dur="6.5s" repeatCount="indefinite"
+        values="M-200,95 C80,40 260,170 520,105 C780,40 980,170 1400,95;
+                M-200,115 C120,65 250,150 520,120 C790,90 1020,165 1400,110;
+                M-200,95 C80,40 260,170 520,105 C780,40 980,170 1400,95"/>
+    </path>
+
+    <path d="M-250,155 C120,95 260,210 540,160 C820,110 960,215 1450,155"
+          fill="none" stroke="url(#aur2)" stroke-width="56" opacity="0.85">
+      <animate attributeName="d" dur="7.5s" repeatCount="indefinite"
+        values="M-250,155 C120,95 260,210 540,160 C820,110 960,215 1450,155;
+                M-250,145 C130,120 300,185 560,150 C820,120 1010,195 1450,145;
+                M-250,155 C120,95 260,210 540,160 C820,110 960,215 1450,155"/>
+    </path>
+
+    <path d="M-220,210 C90,160 330,260 590,210 C850,160 1010,260 1420,210"
+          fill="none" stroke="url(#aur3)" stroke-width="44" opacity="0.7">
+      <animate attributeName="d" dur="8.2s" repeatCount="indefinite"
+        values="M-220,210 C90,160 330,260 590,210 C850,160 1010,260 1420,210;
+                M-220,195 C120,175 330,240 610,200 C890,160 1040,245 1420,200;
+                M-220,210 C90,160 330,260 590,210 C850,160 1010,260 1420,210"/>
+    </path>
+  </g>
+
+  <!-- Title -->
+  <text x="44" y="86" fill="rgba(255,255,255,0.92)" font-size="28"
+        font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-weight="700">
+    Featured Projects
+  </text>
+  <text x="44" y="124" fill="rgba(255,255,255,0.70)" font-size="16"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    Luxury glass cards • Subtle aurora motion • Click to open repos →
+  </text>
+</svg>
