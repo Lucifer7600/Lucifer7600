@@ -1,7 +1,7 @@
 <!-- =====================================================
      GitHub Profile README
      Abhishek Lunagariya (Lucifer7600)
-     Style: Unique Luxury (Custom Animated SVG)
+     Style: Luxury • Custom Animated SVG Hero + Glass Cards
 ===================================================== -->
 
 <p align="center">
@@ -29,16 +29,38 @@
 ## 👋 About Me
 I’m a **Programmer Analyst / Software Developer** based in **Montreal, Canada**, with hands-on experience in **Java**, **JavaScript**, **C#**, **.NET**, and **SQL Server**.
 
-I work close to real systems — analyzing requirements, fixing bugs, improving performance, and writing clean, maintainable code. I’m comfortable in **ticket-based environments**, collaborative teams, and production-focused development.
+I work close to real systems — analyzing requirements, fixing bugs, improving performance, and writing clean, maintainable code.
 
 ---
 
-## 💪 Skill Strength Overview
-- **Java**: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (Strong)
-- **JavaScript**: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (Strong)
-- **C# / .NET**: 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (Advanced)
-- **SQL / Databases**: 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (Advanced)
-- **System Analysis**: 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (Advanced)
+## 🚀 Featured Projects (Luxury Glass Cards)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Lucifer7600/Hi-Tech-Inc">
+    <img src="./assets/cards/hi-tech.svg" alt="Multi-Tier Web Application Card" />
+  </a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/Lucifer7600/ATM-C-">
+    <img src="./assets/cards/atm.svg" alt="ATM Card" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Lucifer7600/Mood-Food-App">
+    <img src="./assets/cards/mood-food.svg" alt="Mood Food App Card" />
+  </a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/Lucifer7600/To-Do-app">
+    <img src="./assets/cards/todo-ios.svg" alt="iOS To-Do App Card" />
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -46,62 +68,6 @@ I work close to real systems — analyzing requirements, fixing bugs, improving 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,cs,dotnet,visualstudio,vscode,git,github,html,css,php,mysql&perline=12" />
 </p>
-
----
-
-## 🚀 Featured Projects (Elegant Cards)
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Multi-Tier Web Application  
-**Tech:** Java, MySQL, REST  
-• 3-layer architecture (Controller / Service / DAO)  
-• Optimized SQL queries  
-• Clean separation of concerns  
-
-🔗 Repo: https://github.com/Lucifer7600/Hi-Tech-Inc
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 Bank ATM (C#)  
-**Tech:** C#, .NET  
-• Banking operations simulation  
-• OOP-focused design  
-• Input validation & flow  
-
-🔗 Repo: https://github.com/Lucifer7600/ATM-C-
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ✅ Mood Food App (Windows Forms)  
-**Tech:** C#, Windows Forms  
-• Desktop UI + event-driven logic  
-• Structured app flow  
-• Clean state handling  
-
-🔗 Repo: https://github.com/Lucifer7600/Mood-Food-App
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 iOS To-Do App (Swift + Firebase)  
-**Tech:** Swift, Firebase  
-• Auth + CRUD  
-• Real-time sync  
-• Clean UI/data handling  
-
-🔗 Repo: https://github.com/Lucifer7600/To-Do-app
-
-</td>
-</tr>
-</table>
 
 ---
 
