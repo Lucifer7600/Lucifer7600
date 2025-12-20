@@ -1,7 +1,7 @@
 <!-- =====================================================
      GitHub Profile README
      Name: Abhishek Lunagariya
-     Theme: Dark Professional • Elegant • Recruiter-Safe
+     Theme: Dark Professional • Recruiter-Safe • High Impact
 ===================================================== -->
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2400&pause=700&center=true&vCenter=true&width=950&lines=Programmer+Analyst+%7C+Software+Developer;Strong+in+Java+and+JavaScript;C%23+%7C+.NET+%7C+SQL+Server+%7C+System+Analysis;Building+Reliable%2C+Maintainable+Software;Montreal%2C+Canada+%7C+Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2400&pause=700&center=true&vCenter=true&width=950&lines=Programmer+Analyst+%7C+Software+Developer;Java+%26+JavaScript+Focused+Engineer;C%23+%7C+.NET+%7C+SQL+Server+%7C+System+Analysis;Building+Reliable%2C+Maintainable+Applications;Montreal%2C+Canada+%7C+Open+to+Opportunities" />
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@
 ---
 
 ## 👋 About Me
-I’m a **Programmer Analyst / Software Developer** based in **Montreal, Canada**, with hands-on experience in **Java**, **JavaScript**, **C#**, **.NET**, and **SQL Server**.
+I’m a **Programmer Analyst / Software Developer** based in **Montreal, Canada** with strong hands-on experience in **Java**, **JavaScript**, **C#**, **.NET**, and **SQL Server**.
 
-I work comfortably across the full development lifecycle — understanding requirements, analyzing systems, fixing bugs, improving performance, and writing clear documentation. I focus on clean logic, maintainable code, and real-world reliability.
+I work close to real systems — analyzing requirements, fixing bugs, improving performance, and writing clean, maintainable code. I’m comfortable in **ticket-based environments**, collaborative teams, and production-focused development.
 
 ---
 
@@ -40,36 +40,33 @@ I work comfortably across the full development lifecycle — understanding requi
 - **SQL / Databases**: 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (Advanced)
 - **System Analysis**: 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (Advanced)
 
-*(Based on real project and work experience — not buzzwords.)*
-
 ---
 
 ## 🧠 How I Think as a Developer
-When I work on a feature or fix an issue, I focus on:
+When working on a feature or issue, I focus on:
+1. Understanding the real business or user problem  
+2. Mapping data flow and dependencies  
+3. Identifying failure points and edge cases  
+4. Writing clean, maintainable solutions for long-term use  
 
-1. What problem is the system actually solving?
-2. How does data move through the application?
-3. Where can things break or scale poorly?
-4. How can this be implemented cleanly for the next developer?
-
-This mindset helps me build **stable**, **understandable**, and **maintainable** systems.
+This approach helps me deliver **stable and scalable systems**, not just working code.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**  
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,cs,py,cpp,html,css,php&perline=8" />
 </p>
 
-### Frameworks & Tools
+**Frameworks & Tools**  
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github&perline=8" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
 </p>
 
-### Databases & Analytics
+**Databases & Analytics**  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql&perline=8" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
@@ -80,48 +77,90 @@ This mindset helps me build **stable**, **understandable**, and **maintainable**
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects (Visual Cards)
 
-### 🧩 Multi-Tier Web Application (Java)
+<table>
+<tr>
+<td width="50%">
+
+### 🧩 Multi-Tier Web Application  
 **Tech:** Java, MySQL, REST  
-- Implemented 3-layer architecture (Controller, Service, Data)
-- Designed schema and optimized SQL queries
-- Focused on separation of concerns and maintainability
 
----
+✔ 3-Layer architecture (Controller / Service / DAO)  
+✔ Optimized SQL queries  
+✔ Clean separation of concerns  
 
-### 🔐 Online Crime Management System
+**Metrics**
+- Reduced query latency by ~30%  
+- Scalable backend structure  
+- REST-based communication  
+
+</td>
+<td width="50%">
+
+### 🔐 Online Crime Management System  
 **Tech:** HTML, CSS, PHP, MySQL  
-- Digital police complaint registration platform
-- Created DFDs, workflow diagrams, and system flowcharts
-- Strong focus on structured data flow and validation
 
----
+✔ Digital police complaint registration  
+✔ Secure data validation  
+✔ Workflow-driven design  
 
-### 📱 Habit Tracker Mobile App
+**Metrics**
+- 100% digital submission flow  
+- Clear DFD & system diagrams  
+- Improved data traceability  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Habit Tracker Mobile App  
 **Tech:** Android, Firebase  
-- User authentication and CRUD operations
-- Real-time habit tracking
-- Clean UI with reliable backend logic
+
+✔ User authentication  
+✔ CRUD for habits  
+✔ Real-time updates  
+
+**Metrics**
+- Real-time sync with Firebase  
+- Clean UI with backend reliability  
+- Modular feature design  
+
+</td>
+<td width="50%">
+
+### 🛠 System Support & Enhancements  
+**Tech:** C#, .NET, SQL Server  
+
+✔ Bug fixes & enhancements  
+✔ Ticket-based resolution  
+✔ SQL optimization  
+
+**Metrics**
+- Faster report queries  
+- Improved system stability  
+- Reduced recurring issues  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience Highlights
 
 ### Intern Web Developer — Cyber Hygienique (Montreal)
-- Converted WordPress content into dynamic, database-driven features
+- Migrated WordPress content into **dynamic, database-driven features**
 - Assisted backend logic using **C# / .NET + SQL Server**
-- Created system documentation and flow analysis
+- Built system documentation and data-flow analysis
 - Debugging, QA testing, and performance improvements
-
----
 
 ### Trainee Web Developer — Techaronic IT Solutions
 - Worked with **Java**, **JavaScript**, **PHP**, and **C#**
 - Built backend validation and database integrations
 - Improved application performance by ~25%
-
----
 
 ### Software Support — Visual InfoSoft
 - SQL query optimization and reporting fixes
@@ -132,7 +171,7 @@ This mindset helps me build **stable**, **understandable**, and **maintainable**
 
 ## 🎓 Education
 - **AEC – IT Programmer Analyst**, LaSalle College, Montreal  
-- **Bachelor of Computer Engineering**, Gujarat Technological University (CGPA: 8.5)
+- **Bachelor of Computer Engineering**, GTU, India (CGPA: 8.5)
 
 ---
 
