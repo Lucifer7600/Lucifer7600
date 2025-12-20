@@ -8,6 +8,7 @@
   <img src="./assets/lux-header.svg" alt="Luxury Animated Header" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2200&pause=650&center=true&vCenter=true&width=980&lines=Programmer+Analyst+%7C+Software+Developer;Java+%26+JavaScript+Focused;C%23+%7C+.NET+%7C+SQL+Server+%7C+System+Analysis;Clean%2C+Maintainable%2C+Production-Ready+Code;Montreal%2C+Canada+%7C+Open+to+Opportunities" />
 </p>
@@ -24,6 +25,18 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Lucifer7600">
+    <img src="./assets/recruiter-console.svg" alt="Recruiter Console" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:abhisheklunagariya2000@gmail.com"><img src="https://img.shields.io/badge/Email-Open-informational?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/abhishek-lunagariya-a78507194"><img src="https://img.shields.io/badge/LinkedIn-Open-blue?style=for-the-badge"></a>
+  <a href="https://github.com/Lucifer7600/Hi-Tech-Inc"><img src="https://img.shields.io/badge/Repo-Hi--Tech--Inc-black?style=for-the-badge"></a>
+  <a href="https://github.com/Lucifer7600/ATM-C-"><img src="https://img.shields.io/badge/Repo-ATM--C--black?style=for-the-badge"></a>
+</p>
 ---
 
 ## 👋 About Me
