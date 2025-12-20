@@ -20,6 +20,10 @@
   <a href="https://github.com/Lucifer7600"><img src="https://img.shields.io/badge/GitHub-Lucifer7600-black?style=for-the-badge"></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lucifer7600/Lucifer7600/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
 ---
 
 ## 🧠 About Me
