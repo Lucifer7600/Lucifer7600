@@ -90,6 +90,7 @@ I work close to real systems — analyzing requirements, fixing bugs, improving 
 ---
 
 ## 📊 GitHub Stats
+<!--START_SECTION:waka-->
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucifer7600&show_icons=true&hide_title=true&rank_icon=github" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer7600" />
@@ -98,7 +99,7 @@ I work close to real systems — analyzing requirements, fixing bugs, improving 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer7600&layout=compact&langs_count=10" />
 </p>
-
+<!--END_SECTION:waka-->
 ---
 
 ## 🐍 Contribution Snake
@@ -111,3 +112,4 @@ I work close to real systems — analyzing requirements, fixing bugs, improving 
 ## 🤝 Let’s Connect
 📧 Email: **abhisheklunagariya2000@gmail.com**  
 🔗 LinkedIn: **linkedin.com/in/abhishek-lunagariya-a78507194**
+
