@@ -1,115 +1,141 @@
-<!-- =====================================================
-     GitHub Profile README
-     Abhishek Lunagariya (Lucifer7600)
-     Style: Luxury • Custom Animated SVG Hero + Glass Cards
-===================================================== -->
+<!--
+  GitHub profile README for github.com/Lucifer7600
+  Install: create/use the public repository `Lucifer7600`, then copy this file
+  and the `assets/` folder to its default branch.
+-->
 
 <p align="center">
-  <img src="./assets/lux-header.svg" alt="Luxury Animated Header" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2200&pause=650&center=true&vCenter=true&width=980&lines=Programmer+Analyst+%7C+Software+Developer;Java+%26+JavaScript+Focused;C%23+%7C+.NET+%7C+SQL+Server+%7C+System+Analysis;Clean%2C+Maintainable%2C+Production-Ready+Code;Montreal%2C+Canada+%7C+Open+to+Opportunities" />
+  <img src="./assets/hero.svg" width="100%" alt="Abhishek Lunagariya - backend engineer building systems that stay fast as they scale" />
 </p>
 
 <p align="center">
-  <a href="mailto:abhisheklunagariya2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhisheklunagariya2000%40gmail.com-0b0b0b?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/abhishek-lunagariya-a78507194">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Lunagariya-1a5cff?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Lucifer7600">
-    <img src="https://img.shields.io/badge/GitHub-Lucifer7600-111111?style=for-the-badge" />
-  </a>
+  <a href="mailto:Abhyluna2000@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD-Email-7C3AED?style=for-the-badge&labelColor=0B1020" alt="Email Abhishek" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-lunagariya-a78507194"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0EA5E9?style=for-the-badge&labelColor=0B1020" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Lucifer7600?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-Projects-22C55E?style=for-the-badge&labelColor=0B1020" alt="Explore projects" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Lucifer7600">
-    <img src="./assets/recruiter-console.svg" alt="Recruiter Console" />
-  </a>
+  <code>Java</code> · <code>Spring Boot</code> · <code>.NET</code> · <code>PostgreSQL</code> · <code>Kafka</code> · <code>AWS</code> · <code>Docker</code> · <code>Kubernetes</code>
 </p>
 
-<p align="center">
-  <a href="mailto:abhisheklunagariya2000@gmail.com"><img src="https://img.shields.io/badge/Email-Open-informational?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/abhishek-lunagariya-a78507194"><img src="https://img.shields.io/badge/LinkedIn-Open-blue?style=for-the-badge"></a>
-  <a href="https://github.com/Lucifer7600/Hi-Tech-Inc"><img src="https://img.shields.io/badge/Repo-Hi--Tech--Inc-black?style=for-the-badge"></a>
-  <a href="https://github.com/Lucifer7600/ATM-C-"><img src="https://img.shields.io/badge/Repo-ATM--C--black?style=for-the-badge"></a>
-</p>
+## I turn backend pressure into measurable performance.
 
-<p align="center">
-  <img src="./assets/ai-resume-lens.svg" alt="AI Resume Lens" />
-</p>
-
----
-
-## 👋 About Me
-I’m a **Programmer Analyst / Software Developer** based in **Montreal, Canada**, with hands-on experience in **Java**, **JavaScript**, **C#**, **.NET**, and **SQL Server**.
-
-I work close to real systems — analyzing requirements, fixing bugs, improving performance, and writing clean, maintainable code.
-
----
-
-## 🚀 Featured Projects (Luxury Glass Cards)
+I’m **Abhishek Lunagariya**, a software developer in Canada with **4+ years of experience** building enterprise backends, distributed workflows, and cloud-ready products. I work where application logic, data, and delivery meet—designing clean APIs, finding performance bottlenecks, and carrying changes safely into production.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/Lucifer7600/Hi-Tech-Inc">
-    <img src="./assets/cards/hi-tech.svg" alt="Multi-Tier Web Application Card" />
-  </a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/Lucifer7600/ATM-C-">
-    <img src="./assets/cards/atm.svg" alt="ATM Card" />
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/Lucifer7600/Mood-Food-App">
-    <img src="./assets/cards/mood-food.svg" alt="Mood Food App Card" />
-  </a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/Lucifer7600/To-Do-app">
-    <img src="./assets/cards/todo-ios.svg" alt="iOS To-Do App Card" />
-  </a>
-</td>
-</tr>
+  <tr>
+    <td align="center"><strong>20+</strong><br/><sub>REST APIs delivered</sub></td>
+    <td align="center"><strong>20,000+</strong><br/><sub>concurrent requests supported</sub></td>
+    <td align="center"><strong>30%</strong><br/><sub>database throughput gain</sub></td>
+    <td align="center"><strong>95%</strong><br/><sub>test coverage achieved</sub></td>
+  </tr>
 </table>
 
----
+> **My engineering signature:** measure first → isolate the bottleneck → simplify the path → automate the proof.
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,cs,dotnet,visualstudio,vscode,git,github,html,css,php,mysql&perline=12" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<!--START_SECTION:waka-->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucifer7600&show_icons=true&hide_title=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer7600" />
-</p>
+## The journey so far
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer7600&layout=compact&langs_count=10" />
+  <img src="./assets/journey.svg" width="100%" alt="Career journey from Computer Engineering through CRED, Information Technology studies, Ciklum, and architecture growth" />
 </p>
-<!--END_SECTION:waka-->
----
 
-## 🐍 Contribution Snake
+<details>
+<summary><strong>Open the impact log</strong></summary>
+
+### Ciklum · Software Developer · 2025—present
+
+- Build Java/Spring Boot microservices for a compliance platform serving **10,000+ active users**.
+- Cut API latency from **500 ms → 400 ms** through query, indexing, pagination, and service-layer improvements.
+- Increased PostgreSQL read/write throughput by **30%** and integrated secure AWS S3 report storage.
+- Reduced manual deployment effort by **40%** with Docker, Jenkins, and GitHub Actions.
+- Review code, support production releases, and mentor junior developers.
+
+### CRED · Software Developer · 2021—2023
+
+- Built inventory and compliance services processing **15,000+ daily transactions** at **<1% error rate**.
+- Refactored legacy Java/JPA flows from **250 ms → 180 ms** processing time.
+- Introduced Kafka-based asynchronous pipelines, increasing throughput by **20%**.
+- Reached **95% test coverage** with JUnit and Mockito and reduced production defects by **18%**.
+- Optimized PostgreSQL/Oracle reporting workloads, reducing report generation time by **35%**.
+
+</details>
+
+## How I think about a system
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lucifer7600/Lucifer7600/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="./assets/system-map.svg" width="100%" alt="Abhishek's engineering system map connecting interfaces, services, events, data, cloud, delivery, and observability" />
 </p>
 
----
+| I design | I optimize | I operate |
+|:--|:--|:--|
+| REST/GraphQL APIs, service boundaries, domain logic | SQL plans, indexes, latency, throughput | CI/CD, containers, release quality, production issues |
+| Spring Boot, Hibernate/JPA, ASP.NET Core | PostgreSQL, Oracle, Redis, Elasticsearch | AWS, Docker, Kubernetes, Jenkins, GitHub Actions |
+| Kafka/RabbitMQ workflows and integrations | caching, pagination, async processing | tests, API contracts, logs, metrics, incident diagnosis |
 
-## 🤝 Let’s Connect
-📧 Email: **abhisheklunagariya2000@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/abhishek-lunagariya-a78507194**
+## Selected builds
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💡 Hippone Luminaires</h3>
+      <p>A premium wholesale experience with bespoke-product storytelling, trade inquiries, and a private lead-management dashboard.</p>
+      <p><code>TypeScript</code> <code>Full stack</code> <code>Product UX</code></p>
+      <a href="https://github.com/Lucifer7600/hippone-luminaires"><strong>Explore the build →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 JobFlow</h3>
+      <p>A job application command center with compatibility scoring, search/filtering, Excel export, and clean layered architecture.</p>
+      <p><code>.NET 8</code> <code>EF Core</code> <code>SQLite</code> <code>Clean Architecture</code></p>
+      <a href="https://github.com/Lucifer7600/Job-Management-assistant"><strong>Inspect the architecture →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 Enterprise Architecture</h3>
+      <p>A BCG Platinion simulation translating technical debt into an API-first, data-led, phased modernization roadmap.</p>
+      <p><code>Architecture</code> <code>Cloud strategy</code> <code>Roadmapping</code></p>
+      <a href="https://github.com/Lucifer7600/-IT-Architecture-Job-Simulation-BCG-Platinion"><strong>Read the case study →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 Portfolio</h3>
+      <p>A visual home for my product work, backend approach, and path across Java, .NET, SQL, and modern web technologies.</p>
+      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
+      <a href="https://github.com/Lucifer7600/Portfolio"><strong>Visit the portfolio →</strong></a>
+    </td>
+  </tr>
+</table>
+
+## Capability constellation
+
+```text
+                         DISTRIBUTED SYSTEMS
+                    Kafka · RabbitMQ · gRPC
+                              ▲
+                              │
+  PRODUCT ◄──── React · Next.js ── API DESIGN ── Spring Boot · ASP.NET ────► CLOUD
+                              │                         AWS · Docker · K8s
+                              ▼
+                       DATA & PERFORMANCE
+              PostgreSQL · Oracle · Redis · SQL tuning
+```
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucifer7600&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github" alt="Abhishek's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer7600&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1" alt="Most-used languages" />
+</p>
+
+## What I’m growing next
+
+`deeper distributed-system design` · `observability` · `Kubernetes` · `cloud architecture` · `production ownership`
+
+I’m interested in **intermediate backend / software engineering opportunities** where performance, reliability, and thoughtful system design matter. If you’re building a product that needs clean services and calm production ownership, let’s talk.
+
+<p align="center">
+  <a href="mailto:Abhyluna2000@gmail.com"><strong>Start a conversation</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abhishek-lunagariya-a78507194">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Lucifer7600?tab=repositories">All repositories</a>
+</p>
+
+<p align="center"><sub>Build clearly. Measure honestly. Improve continuously.</sub></p>
