@@ -72,39 +72,6 @@ I’m **Abhishek Lunagariya**, a software developer in Canada with **4+ years of
 | Spring Boot, Hibernate/JPA, ASP.NET Core | PostgreSQL, Oracle, Redis, Elasticsearch | AWS, Docker, Kubernetes, Jenkins, GitHub Actions |
 | Kafka/RabbitMQ workflows and integrations | caching, pagination, async processing | tests, API contracts, logs, metrics, incident diagnosis |
 
-## Selected builds
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💡 Hippone Luminaires</h3>
-      <p>A premium wholesale experience with bespoke-product storytelling, trade inquiries, and a private lead-management dashboard.</p>
-      <p><code>TypeScript</code> <code>Full stack</code> <code>Product UX</code></p>
-      <a href="https://github.com/Lucifer7600/hippone-luminaires"><strong>Explore the build →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 JobFlow</h3>
-      <p>A job application command center with compatibility scoring, search/filtering, Excel export, and clean layered architecture.</p>
-      <p><code>.NET 8</code> <code>EF Core</code> <code>SQLite</code> <code>Clean Architecture</code></p>
-      <a href="https://github.com/Lucifer7600/Job-Management-assistant"><strong>Inspect the architecture →</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 Enterprise Architecture</h3>
-      <p>A BCG Platinion simulation translating technical debt into an API-first, data-led, phased modernization roadmap.</p>
-      <p><code>Architecture</code> <code>Cloud strategy</code> <code>Roadmapping</code></p>
-      <a href="https://github.com/Lucifer7600/-IT-Architecture-Job-Simulation-BCG-Platinion"><strong>Read the case study →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧭 Portfolio</h3>
-      <p>A visual home for my product work, backend approach, and path across Java, .NET, SQL, and modern web technologies.</p>
-      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
-      <a href="https://github.com/Lucifer7600/Portfolio"><strong>Visit the portfolio →</strong></a>
-    </td>
-  </tr>
-</table>
-
 ## Capability constellation
 
 ```text
