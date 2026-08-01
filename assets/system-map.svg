@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering system map</title><desc id="desc">A visual map of the layers Abhishek designs, optimizes, and operates.</desc>
+  <defs><linearGradient id="edge" x1="0" x2="1"><stop stop-color="#A78BFA"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#22C55E"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="1200" height="360" rx="22" fill="#0B1020"/>
+  <g stroke="#334155" stroke-width="2" fill="none"><path d="M260 90L470 180M260 270L470 180M730 180L940 90M730 180L940 270"/><path d="M600 104V54M600 256v50"/></g>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g><rect x="470" y="120" width="260" height="120" rx="28" fill="#161B33" stroke="url(#edge)" stroke-width="3" filter="url(#glow)"/><text x="600" y="168" fill="#F8FAFC" font-size="23" font-weight="800">RELIABLE SERVICES</text><text x="600" y="198" fill="#22D3EE" font-size="15">clean contracts · measured behavior</text><text x="600" y="220" fill="#94A3B8" font-size="13">Java · Spring Boot · .NET</text></g>
+    <g><rect x="90" y="44" width="280" height="92" rx="18" fill="#17172D" stroke="#8B5CF6"/><text x="230" y="76" fill="#C4B5FD" font-size="15" font-weight="700">INTERFACES</text><text x="230" y="101" fill="#F8FAFC" font-size="17">REST · GraphQL · gRPC</text><text x="230" y="122" fill="#94A3B8" font-size="12">clear boundaries</text></g>
+    <g><rect x="90" y="224" width="280" height="92" rx="18" fill="#17172D" stroke="#8B5CF6"/><text x="230" y="256" fill="#C4B5FD" font-size="15" font-weight="700">EVENTS</text><text x="230" y="281" fill="#F8FAFC" font-size="17">Kafka · RabbitMQ</text><text x="230" y="302" fill="#94A3B8" font-size="12">decoupled throughput</text></g>
+    <g><rect x="830" y="44" width="280" height="92" rx="18" fill="#10202C" stroke="#06B6D4"/><text x="970" y="76" fill="#67E8F9" font-size="15" font-weight="700">DATA</text><text x="970" y="101" fill="#F8FAFC" font-size="17">PostgreSQL · Oracle · Redis</text><text x="970" y="122" fill="#94A3B8" font-size="12">plans · indexes · consistency</text></g>
+    <g><rect x="830" y="224" width="280" height="92" rx="18" fill="#10251E" stroke="#22C55E"/><text x="970" y="256" fill="#86EFAC" font-size="15" font-weight="700">DELIVERY</text><text x="970" y="281" fill="#F8FAFC" font-size="17">AWS · Docker · Kubernetes</text><text x="970" y="302" fill="#94A3B8" font-size="12">CI/CD · safe releases</text></g>
+    <text x="600" y="38" fill="#A78BFA" font-size="14" font-weight="700">DESIGN</text><text x="600" y="337" fill="#22C55E" font-size="14" font-weight="700">OBSERVE · LEARN · IMPROVE</text>
+  </g>
+</svg>

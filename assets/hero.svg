@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Abhishek Lunagariya - Backend Engineer</title>
+  <desc id="desc">Dark technical banner presenting Abhishek as a backend engineer who builds reliable systems at scale.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080B18"/><stop offset=".55" stop-color="#111A38"/><stop offset="1" stop-color="#071B24"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#A78BFA"/><stop offset=".52" stop-color="#22D3EE"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#94A3B8" stroke-opacity=".08"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <circle cx="1050" cy="70" r="100" fill="#7C3AED" opacity=".18" filter="url(#glow)"/><circle cx="1100" cy="300" r="120" fill="#06B6D4" opacity=".12" filter="url(#glow)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".75"><path d="M820 94h92l28 28h108"/><path d="M785 174h72l34-34h160l42 42h70"/><path d="M830 258h92l30-30h126"/></g>
+  <g fill="#0B1020" stroke="#22D3EE" stroke-width="2"><circle cx="820" cy="94" r="7"/><circle cx="1048" cy="122" r="7"/><circle cx="785" cy="174" r="7"/><circle cx="1163" cy="182" r="7"/><circle cx="830" cy="258" r="7"/><circle cx="1078" cy="228" r="7"/></g>
+  <text x="74" y="76" fill="#22D3EE" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3">BACKEND ENGINEER · SYSTEMS THINKER</text>
+  <text x="70" y="151" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="800">Abhishek Lunagariya</text>
+  <rect x="72" y="176" width="610" height="5" rx="3" fill="url(#accent)"/>
+  <text x="72" y="228" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="25">I build systems that stay fast as they scale.</text>
+  <g font-family="Consolas,monospace" font-size="15" fill="#94A3B8"><text x="74" y="284">JAVA  /  SPRING BOOT  /  .NET  /  KAFKA  /  POSTGRESQL  /  AWS</text><text x="74" y="316" fill="#22C55E">● AVAILABLE FOR THE NEXT HARD PROBLEM</text></g>
+  <rect x="1" y="1" width="1198" height="358" rx="25" fill="none" stroke="url(#accent)" stroke-opacity=".55" stroke-width="2"/>
+</svg>
