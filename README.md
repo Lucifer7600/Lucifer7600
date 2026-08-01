@@ -72,6 +72,39 @@ I’m **Abhishek Lunagariya**, a software developer in Canada with **4+ years of
 | Spring Boot, Hibernate/JPA, ASP.NET Core | PostgreSQL, Oracle, Redis, Elasticsearch | AWS, Docker, Kubernetes, Jenkins, GitHub Actions |
 | Kafka/RabbitMQ workflows and integrations | caching, pagination, async processing | tests, API contracts, logs, metrics, incident diagnosis |
 
+## What happens when a system slows down?
+
+I don’t begin with a rewrite. I begin with evidence.
+
+```text
+  01 · REPRODUCE          02 · TRACE               03 · CHANGE              04 · PROVE
+  Capture the real   →    Follow latency across →  Remove the actual    →   Load-test, compare,
+  workload and impact     app, data, and network    constraint—not noise     deploy, and observe
+```
+
+That loop helped me find repeated database calls and a missing composite index in a high-traffic compliance endpoint. The result was not just “faster code”—it was a measured improvement from **500 ms to 400 ms**, lower database pressure, and better performance for other endpoints sharing the same data path.
+
+### My developer operating system
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>🧭 Think in systems</strong><br/><br/>
+      A slow API may be a query, connection pool, network dependency, mapper, or contract problem. I trace the whole path before choosing the fix.
+    </td>
+    <td width="33%" valign="top">
+      <strong>🛡️ Ship with evidence</strong><br/><br/>
+      Tests, execution plans, realistic datasets, API contracts, and post-release metrics turn an implementation into a dependable production change.
+    </td>
+    <td width="33%" valign="top">
+      <strong>🤝 Own the outcome</strong><br/><br/>
+      I work from requirement clarification through design, delivery, deployment, troubleshooting, and knowledge-sharing—not only until the code compiles.
+    </td>
+  </tr>
+</table>
+
+> I’m at my best where **backend engineering**, **data performance**, and **production ownership** overlap.
+
 ## Capability constellation
 
 ```text
