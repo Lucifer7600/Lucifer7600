@@ -11,7 +11,6 @@
 <p align="center">
   <a href="mailto:Abhyluna2000@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD-Email-7C3AED?style=for-the-badge&labelColor=0B1020" alt="Email Abhishek" /></a>
   <a href="https://www.linkedin.com/in/abhishek-lunagariya-a78507194"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0EA5E9?style=for-the-badge&labelColor=0B1020" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/Lucifer7600?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-Projects-22C55E?style=for-the-badge&labelColor=0B1020" alt="Explore projects" /></a>
 </p>
 
 <p align="center">
@@ -105,6 +104,12 @@ That loop helped me find repeated database calls and a missing composite index i
 
 > I’m at my best where **backend engineering**, **data performance**, and **production ownership** overlap.
 
+## Skills in motion
+
+<p align="center">
+  <img src="./assets/skills-orbit.svg" width="100%" alt="Animated constellation of Abhishek's backend, data, cloud, messaging, quality, and platform skills" />
+</p>
+
 ## Capability constellation
 
 ```text
@@ -134,8 +139,6 @@ I’m interested in **intermediate backend / software engineering opportunities*
   <a href="mailto:Abhyluna2000@gmail.com"><strong>Start a conversation</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/abhishek-lunagariya-a78507194">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Lucifer7600?tab=repositories">All repositories</a>
 </p>
 
 <p align="center"><sub>Build clearly. Measure honestly. Improve continuously.</sub></p>
